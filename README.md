@@ -2,7 +2,7 @@
 Automatic Weekly Status Generator from an Excel File
 
 ## Requirements
-Python 3 ins needed for this script
+Python3 and pip are needed for this script
 
 ## Installation
 Download this repo. Inside the folder run the following command to install the dependencies.
