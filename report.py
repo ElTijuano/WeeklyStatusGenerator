@@ -1,6 +1,5 @@
 from openpyxl import load_workbook 
 from sys import argv
-#from status import Status
 from statusColor import setEmoji
 
 def colnum(n):
