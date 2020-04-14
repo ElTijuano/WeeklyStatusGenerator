@@ -17,4 +17,4 @@ After the installation, the script can be executed with the .xlsx excel file as 
 python3 report.py CE-LAT-DASHBOARD_20200410.xlsx
 ```
 
-This will generate an index.hmtl file
+This will generate an index.html file
